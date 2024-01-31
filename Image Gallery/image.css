@@ -1,0 +1,26 @@
+body{
+    font-family: 'PT Serif', serif;
+    background-color: rgb(75, 255, 117);
+}
+.title{
+    background-color: rgb(220, 242, 78);
+    font-size: 50px;
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.imgsec{
+    padding: 20px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.insec{
+    width:200px;
+    height:350px;
+    text-align: center;
+    margin: 5px;
+    flex-basis: 20%;
+}
